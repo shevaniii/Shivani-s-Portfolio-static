@@ -339,6 +339,9 @@ const Portfolio = () => {
                 <div className="bg-yellow-500/20 text-yellow-300 px-3 py-1 rounded-full text-sm">
                   In Development
                 </div>
+                 <a href="https://github.com/shevaniii/Ai-website-builder" target="_blank" rel="noopener noreferrer" className="text-purple-400 hover:text-purple-300 transition-colors">
+                  <ExternalLink size={20} />
+                </a>
               </div>
               <p className="text-gray-300 mb-4">
                 Developing an AI-integrated SaaS platform that enables users to build websites using artificial intelligence with machine learning algorithms for automated website generation.
@@ -355,7 +358,7 @@ const Portfolio = () => {
             <div className="bg-white/5 backdrop-blur-lg rounded-xl p-8 border border-white/10 hover:bg-white/10 transition-colors">
               <div className="flex items-center justify-between mb-4">
                 <h3 className="text-2xl font-bold text-white">EasyFeet E-commerce</h3>
-                <a href="https://github.com/shevaniii/easyfeet-ecommerce" target="_blank" rel="noopener noreferrer" className="text-purple-400 hover:text-purple-300 transition-colors">
+                <a href="https://ecommerce-easyfeet-shevaniiis-projects.vercel.app/" target="_blank" rel="noopener noreferrer" className="text-purple-400 hover:text-purple-300 transition-colors">
                   <ExternalLink size={20} />
                 </a>
               </div>
@@ -374,7 +377,7 @@ const Portfolio = () => {
             <div className="bg-white/5 backdrop-blur-lg rounded-xl p-8 border border-white/10 hover:bg-white/10 transition-colors lg:col-span-2">
               <div className="flex items-center justify-between mb-4">
                 <h3 className="text-2xl font-bold text-white">Currency Converter</h3>
-                <a href="https://github.com/shevaniii/currency-converter" target="_blank" rel="noopener noreferrer" className="text-purple-400 hover:text-purple-300 transition-colors">
+                <a href="https://currency-converter-reacttttt.netlify.app/" target="_blank" rel="noopener noreferrer" className="text-purple-400 hover:text-purple-300 transition-colors">
                   <ExternalLink size={20} />
                 </a>
               </div>
